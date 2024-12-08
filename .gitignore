@@ -1,0 +1,6 @@
+backend/node_modules
+frontend/node_modules
+.Ds_Store
+.env
+database.sqlite
+package-lock.json
